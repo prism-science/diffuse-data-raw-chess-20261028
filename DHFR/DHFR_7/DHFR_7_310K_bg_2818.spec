@@ -1,0 +1,1 @@
+../../.git/annex/objects/Zk/GJ/MD5E-s3118--e6eaae4e0c3fc39437e40d570daaa3cb.spec/MD5E-s3118--e6eaae4e0c3fc39437e40d570daaa3cb.spec

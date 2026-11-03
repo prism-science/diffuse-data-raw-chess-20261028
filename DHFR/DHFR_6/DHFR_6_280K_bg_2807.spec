@@ -1,0 +1,1 @@
+../../.git/annex/objects/xj/Vm/MD5E-s3117--1f0865bc92cd25010a9a9e38498b2c86.spec/MD5E-s3117--1f0865bc92cd25010a9a9e38498b2c86.spec
